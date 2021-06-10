@@ -1,0 +1,37 @@
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.exe
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.deps.json
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.runtimeconfig.json
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.runtimeconfig.dev.json
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.dll
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.pdb
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.Views.dll
+D:\Git Workspace\git EX3 mvc Core\bin\Debug\netcoreapp3.1\git EX3 mvc Core.Views.pdb
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.csprojAssemblyReference.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.AssemblyInfoInputs.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.AssemblyInfo.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.csproj.CoreCompileInputs.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.RazorAssemblyInfo.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.RazorAssemblyInfo.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\staticwebassets\git EX3 mvc Core.StaticWebAssets.Manifest.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\staticwebassets\git EX3 mvc Core.StaticWebAssets.xml
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\git EX3 mvc Core.styles.css
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.TagHelpers.input.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.TagHelpers.output.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.RazorCoreGenerate.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.RazorTargetAssemblyInfo.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.RazorTargetAssemblyInfo.cs
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.Views.pdb
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.dll
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.pdb
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.genruntimeconfig.cache
+D:\Git Workspace\git EX3 mvc Core\obj\Debug\netcoreapp3.1\git EX3 mvc Core.csproj.CopyComplete
